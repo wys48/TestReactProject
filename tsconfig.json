@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "module": "es2015",
+        "lib": ["dom", "es2017"],
+        "moduleResolution": "node",
+        "rootDir": "src",
+        "outDir": "out",
+        "jsx": "react-native",
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": [
+    ]
+}
